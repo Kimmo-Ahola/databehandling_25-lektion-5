@@ -2,5 +2,5 @@
 
 ## Första lektionen med SQLAlchemy
 
-Kort om hur man skapar en tabell i Python
-Kort om hur man gör enkla queries (SELECT * FROM ...) med session.query()
+- Kort om hur man skapar en tabell i Python
+- Kort om hur man gör enkla queries (SELECT * FROM ...) med session.query()
